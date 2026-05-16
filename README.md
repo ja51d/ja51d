@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=ja51d&fontColor=ffffff&fontSize=46&animation=fadeIn&fontAlignY=36&desc=Astronautics%20·%20Flight%20Software%20·%20Ground%20Control&descSize=18&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:1B3A6B,100:2C5DA3&height=200&section=header&text=ja51d&fontColor=ffffff&fontSize=46&animation=fadeIn&fontAlignY=36&desc=Astronautics%20·%20Flight%20Software%20·%20Ground%20Control&descSize=18&descAlignY=60" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ja51d&style=for-the-badge&color=0F2027&label=PROFILE+VIEWS" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ja51d&style=for-the-badge&color=0D1B2A&label=PROFILE+VIEWS" alt="profile views" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/ja51d?style=for-the-badge&color=0F2027&logo=github&label=FOLLOWERS" alt="followers" />
+  <img src="https://img.shields.io/github/followers/ja51d?style=for-the-badge&color=0D1B2A&logo=github&label=FOLLOWERS" alt="followers" />
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=2" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1B2A,50:1B3A6B,100:2C5DA3&height=2" />
 </p>
 
 <table>
@@ -46,7 +46,7 @@ I build the **software that flies things** — bridging aerospace hardware and h
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=2" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1B2A,50:1B3A6B,100:2C5DA3&height=2" />
 </p>
 
 ### 🚀 Featured Work
@@ -81,7 +81,7 @@ Surgical fixes to the [ArduPilot](https://github.com/ArduPilot/ardupilot) C++ fl
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=2" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1B2A,50:1B3A6B,100:2C5DA3&height=2" />
 </p>
 
 ### 🛠️ Tech Stack
@@ -94,7 +94,7 @@ Surgical fixes to the [ArduPilot](https://github.com/ArduPilot/ardupilot) C++ fl
 **Build & Tools:** Waf · CMake · Git · VS Code · Qt Creator
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=2" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1B2A,50:1B3A6B,100:2C5DA3&height=2" />
 </p>
 
 ### 🏆 Achievements
@@ -104,15 +104,15 @@ Surgical fixes to the [ArduPilot](https://github.com/ArduPilot/ardupilot) C++ fl
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=2" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1B2A,50:1B3A6B,100:2C5DA3&height=2" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ja51d?tab=repositories"><img src="https://img.shields.io/badge/-Repositories-0F2027?style=for-the-badge&logo=github&logoColor=58A6FF" /></a>
+  <a href="https://github.com/ja51d?tab=repositories"><img src="https://img.shields.io/badge/-Repositories-0D1B2A?style=for-the-badge&logo=github&logoColor=58A6FF" /></a>
   &nbsp;
-  <a href="mailto:namazovj@gmail.com"><img src="https://img.shields.io/badge/-Email-0F2027?style=for-the-badge&logo=gmail&logoColor=58A6FF" /></a>
+  <a href="mailto:namazovj@gmail.com"><img src="https://img.shields.io/badge/-Email-0D1B2A?style=for-the-badge&logo=gmail&logoColor=58A6FF" /></a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5DA3,50:1B3A6B,100:0D1B2A&height=120&section=footer" />
 </p>
