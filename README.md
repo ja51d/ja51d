@@ -108,9 +108,9 @@ Active contributor to **[ArduPilot](https://github.com/ArduPilot/ardupilot)**, t
 
 <div align="center">
 
-<a href="https://github.com/ja51d?tab=repositories"><img src="https://img.shields.io/badge/-REPOSITORIES-020817?style=for-the-badge&logo=github&logoColor=00D9FF" /></a>
+<a href="https://github.com/ja51d?tab=repositories"><img src="https://img.shields.io/badge/-REPOSITORIES-00D9FF?style=for-the-badge&logo=github&logoColor=020817" /></a>
 &nbsp;
-<a href="mailto:namazovj@gmail.com"><img src="https://img.shields.io/badge/-EMAIL-020817?style=for-the-badge&logo=gmail&logoColor=00D9FF" /></a>
+<a href="mailto:namazovj@gmail.com"><img src="https://img.shields.io/badge/-EMAIL-00D9FF?style=for-the-badge&logo=gmail&logoColor=020817" /></a>
 
 </div>
 
@@ -118,6 +118,6 @@ Active contributor to **[ArduPilot](https://github.com/ArduPilot/ardupilot)**, t
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:003566,50:0A2540,100:020817&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:1565C0,100:003566&height=140&section=footer" />
 
 </div>
