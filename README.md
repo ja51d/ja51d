@@ -14,6 +14,12 @@
 
 <br/><br/>
 
+<img src="demo.gif" width="480" alt="custom Pixhawk quadcopter mid-flight" />
+
+<sub><sup>_↑ custom Pixhawk quadcopter · first hover_</sup></sub>
+
+<br/><br/>
+
 <table>
 <tr>
 <td align="center" width="33%">
