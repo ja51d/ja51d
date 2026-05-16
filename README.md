@@ -12,6 +12,10 @@
 
 I build the software that flies things — bridging aerospace hardware and high-performance software for autonomous vehicles and satellite missions.
 
+<p align="center">
+  <img src="profile.gif" width="400" alt="pixel art of me coding with a drone hovering above the desk" />
+</p>
+
 - 🎓 **3rd-year Astronautics student at Istanbul Technical University (ITU)**
 - 🛰️ I work where **embedded firmware meets ground control software** — telemetry, attitude, autonomy
 - 🚁 Built a **custom Pixhawk-based quadcopter** and verified autonomous Loiter in SITL and on real hardware
