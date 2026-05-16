@@ -64,7 +64,7 @@ Comprehensive ground control system for CanSat missions. Real-time UDP/TCP telem
 <td width="33%" valign="top">
 
 #### 🚁 Custom Quadcopter
-`Pixhawk` `ArduPilot` `SITL`
+`Pixhawk` `ArduPilot` `Mission Planner` `SITL`
 
 <img src="demo.gif" width="100%" alt="custom Pixhawk quadcopter mid-flight" />
 
@@ -92,7 +92,7 @@ Surgical fixes to the [ArduPilot](https://github.com/ArduPilot/ardupilot) C++ fl
   <img src="https://skillicons.dev/icons?i=cpp,qt,cmake,bash,py,git,github,vscode,linux,raspberrypi&theme=dark&perline=10" alt="tech stack" />
 </p>
 
-**Core:** C++ (3+ yrs) · Qt · MAVLink · ArduPilot · Pixhawk
+**Core:** C++ (3+ yrs) · Qt · MAVLink · ArduPilot · Pixhawk · Mission Planner
 **Build & Tools:** Waf · CMake · Git · VS Code · Qt Creator
 
 <p align="center">
