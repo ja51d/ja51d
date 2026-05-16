@@ -49,6 +49,24 @@ I build the **software that flies things** — bridging aerospace hardware and h
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1B2A,50:1B3A6B,100:2C5DA3&height=2" />
 </p>
 
+### ⚡ Currently Building
+
+<table>
+<tr>
+<td valign="top">
+
+- 🛰️ **[ArduPilot/ardupilot#33078](https://github.com/ArduPilot/ardupilot/pull/33078)** — clamping MAVLink gimbal attitude interval to half the main loop rate (fixes #31101)
+- 🛰️ **[ArduPilot/ardupilot#33079](https://github.com/ArduPilot/ardupilot/pull/33079)** — SITL alt-frame consistency check in `AC_WPNav_OA` (fixes #32926)
+- 🚁 Refining my custom Pixhawk quadcopter for higher-altitude autonomous missions
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1B2A,50:1B3A6B,100:2C5DA3&height=2" />
+</p>
+
 ### 🚀 Featured Work
 
 <table>
@@ -92,6 +110,24 @@ Surgical fixes to the [ArduPilot](https://github.com/ArduPilot/ardupilot) C++ fl
 
 **Core:** C++ (3+ yrs) · Qt · MAVLink · ArduPilot · Pixhawk
 **Build & Tools:** Waf · CMake · Git · VS Code · Qt Creator
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1B2A,50:1B3A6B,100:2C5DA3&height=2" />
+</p>
+
+### 📈 Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ja51d&theme=github-compact&bg_color=0D1B2A&color=58A6FF&line=2C5DA3&point=ffffff&area=true&hide_border=true" alt="activity graph" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ja51d/ja51d/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ja51d/ja51d/output/github-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/ja51d/ja51d/output/github-snake.svg" />
+  </picture>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1B2A,50:1B3A6B,100:2C5DA3&height=2" />
