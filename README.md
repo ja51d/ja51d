@@ -14,12 +14,6 @@
 
 <br/><br/>
 
-<img src="demo.gif" width="480" alt="custom Pixhawk quadcopter mid-flight" />
-
-<sub><sup>_↑ custom Pixhawk quadcopter · first hover_</sup></sub>
-
-<br/><br/>
-
 <table>
 <tr>
 <td align="center" width="33%">
@@ -90,6 +84,8 @@ A comprehensive ground control system built in Qt Creator for CanSat missions. R
 ### 🚁 &nbsp;Autonomous Quadcopter
 
 `Pixhawk` &nbsp;`ArduPilot` &nbsp;`SITL`
+
+<img src="demo.gif" width="100%" alt="custom Pixhawk quadcopter mid-flight" />
 
 Hand-built quadcopter on the Pixhawk flight controller. Verified autonomous mission capability and stable Loiter performance in SITL simulation and physical flight testing — from board bring-up to first hover.
 
