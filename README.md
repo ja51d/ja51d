@@ -1,55 +1,90 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=ja51d&fontColor=ffffff&fontSize=40&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=ja51d&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=38&desc=Astronautics%20·%20Flight%20Software%20·%20Ground%20Control&descSize=16&descAlignY=62" />
 </p>
 
 <p align="center">
-  <em>Astronautics @ ITU · C++ flight firmware · Ground Control Systems · ArduPilot contributor</em>
+  <a href="https://github.com/ja51d">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&height=40&lines=Astronautics+%40+ITU;C%2B%2B+%26+Qt+developer;Flight+firmware+%2F+ground+control;ArduPilot+contributor" alt="typing intro" />
+  </a>
 </p>
 
 ---
 
+<table>
+<tr>
+<td width="55%" valign="top">
+
 ### 👋 Hi, I'm Javid
 
-I build the software that flies things — bridging aerospace hardware and high-performance software for autonomous vehicles and satellite missions.
+I build the **software that flies things** — bridging aerospace hardware and high-performance code for autonomous vehicles and satellite missions.
 
-<p align="center">
-  <img src="profile.gif" width="600" alt="pixel art of me coding with a drone hovering above the desk" />
-</p>
-
-- 🎓 **3rd-year Astronautics student at Istanbul Technical University (ITU)**
-- 🛰️ I work where **embedded firmware meets ground control software** — telemetry, attitude, autonomy
-- 🚁 Built a **custom Pixhawk-based quadcopter** and verified autonomous Loiter in SITL and on real hardware
-- 🛠️ **3+ years of C++ and Qt** — comfortable end-to-end, from MAVLink parsing to 3D attitude visualisation
-- 📡 Contributing to **ArduPilot** — small, surgical fixes to the open-source flight stack
+- 🎓 Astronautics student @ **Istanbul Technical University**
+- 🛰️ Firmware ↔ Ground Control — telemetry, attitude, autonomy
+- 🚁 Custom **Pixhawk quadcopter** verified in SITL and real flight
+- 🛠️ **3+ years C++ / Qt** — MAVLink, 3D attitude vis, live camera
+- 📡 Active contributor to **[ArduPilot](https://github.com/ArduPilot/ardupilot)**
 
 > *"From sensor packet to control loop — every layer matters in flight code."*
+
+</td>
+<td width="45%" valign="top">
+
+<p align="center">
+  <img src="profile.gif" width="100%" alt="pixel art of me coding with a drone hovering above the desk" />
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### 🚀 Featured Work
 
-**🛰️ CanSat Ground Control System** &nbsp;·&nbsp; *C++, Qt, MAVLink*
-A comprehensive GCS built in Qt Creator for CanSat missions — real-time UDP/TCP telemetry streaming, 3D attitude visualisation of the airframe, and live camera feed integration.
+<table>
+<tr>
+<td width="33%" valign="top">
 
-**🚁 Custom Autonomous Quadcopter** &nbsp;·&nbsp; *Pixhawk, ArduPilot, SITL*
-Hand-built quadcopter on the Pixhawk flight controller. Verified autonomous mission capability and stable Loiter performance in SITL simulation and physical flight testing.
+#### 🛰️ CanSat GCS
+`C++` `Qt` `MAVLink`
 
-**📡 ArduPilot Contributor**
-Active contributor to the [ArduPilot](https://github.com/ArduPilot/ardupilot) project — open pull requests against `master` for the C++ flight stack used by drones, planes, rovers, and submarines worldwide.
+Comprehensive ground control system for CanSat missions. Real-time UDP/TCP telemetry streaming, 3D attitude visualisation of the airframe, and live camera feed integration.
+
+</td>
+<td width="33%" valign="top">
+
+#### 🚁 Custom Quadcopter
+`Pixhawk` `ArduPilot` `SITL`
+
+Hand-built quadcopter on the Pixhawk flight controller. Verified autonomous mission capability and stable Loiter performance in SITL and physical flight testing.
+
+</td>
+<td width="33%" valign="top">
+
+#### 📡 ArduPilot
+`Open-source flight stack`
+
+Surgical fixes to the [ArduPilot](https://github.com/ArduPilot/ardupilot) C++ flight stack used by drones, planes, rovers and submarines worldwide.
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### 🛠️ Tech Stack
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white)
-![ArduPilot](https://img.shields.io/badge/ArduPilot-blue?style=flat)
-![MAVLink](https://img.shields.io/badge/MAVLink-orange?style=flat)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,qt,cmake,bash,py,git,github,vscode,linux,raspberrypi&theme=dark&perline=10" alt="tech stack" />
+</p>
 
-**Languages & Frameworks:** C++ (3+ yrs), Qt Creator, MAVLink
-**Platforms:** ArduPilot, Pixhawk, SITL, Linux/macOS toolchain
-**Tools:** Git, Waf, VS Code, Qt Creator
+**Core:** C++ (3+ yrs) · Qt · MAVLink · ArduPilot · Pixhawk
+**Build & Tools:** Waf · CMake · Git · VS Code · Qt Creator
 
+---
+
+<p align="center">
+  <a href="https://github.com/ja51d?tab=repositories"><img src="https://img.shields.io/badge/-Repositories-0F2027?style=for-the-badge&logo=github&logoColor=58A6FF" /></a>
+  &nbsp;
+  <a href="mailto:namazovj@gmail.com"><img src="https://img.shields.io/badge/-Email-0F2027?style=for-the-badge&logo=gmail&logoColor=58A6FF" /></a>
+</p>
