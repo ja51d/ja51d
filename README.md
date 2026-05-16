@@ -49,8 +49,3 @@ Active contributor to the [ArduPilot](https://github.com/ArduPilot/ardupilot) pr
 **Platforms:** ArduPilot, Pixhawk, SITL, Linux/macOS toolchain
 **Tools:** Git, Waf, VS Code, Qt Creator
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ja51d&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
