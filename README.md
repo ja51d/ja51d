@@ -13,7 +13,7 @@
 I build the software that flies things — bridging aerospace hardware and high-performance software for autonomous vehicles and satellite missions.
 
 <p align="center">
-  <img src="profile.gif" width="400" alt="pixel art of me coding with a drone hovering above the desk" />
+  <img src="profile.gif" width="100%" alt="pixel art of me coding with a drone hovering above the desk" />
 </p>
 
 - 🎓 **3rd-year Astronautics student at Istanbul Technical University (ITU)**
