@@ -52,21 +52,7 @@ I bridge **aerospace hardware** and **high-performance software** for autonomous
 
 <br/>
 
-## &nbsp;`◑  MISSION LOG`
-
-<table><tr><td valign="top">
-
-```diff
-+ active: ArduPilot PR #33078 — clamp MAVLink gimbal interval (fixes #31101)
-+ active: ArduPilot PR #33079 — SITL alt-frame consistency check (fixes #32926)
-> building: Pixhawk quadcopter — higher-altitude autonomous missions
-```
-
-</td></tr></table>
-
-<br/>
-
-## &nbsp;`◒  SELECTED WORK`
+## &nbsp;`◑  SELECTED WORK`
 
 <table>
 <tr>
@@ -96,7 +82,7 @@ Hand-built quadcopter on the Pixhawk flight controller. Verified autonomous miss
 
 ### 📡 &nbsp;ArduPilot — Open-Source Flight Stack
 
-Active contributor to **[ArduPilot](https://github.com/ArduPilot/ardupilot)**, the C++ flight stack used by drones, planes, rovers, and submarines worldwide. Surgical fixes scoped per subsystem — driver-level (gimbal protocol), invariant checks (waypoint navigation), build / library isolation. Live PRs: **[#33078](https://github.com/ArduPilot/ardupilot/pull/33078)** · **[#33079](https://github.com/ArduPilot/ardupilot/pull/33079)**.
+Active contributor to **[ArduPilot](https://github.com/ArduPilot/ardupilot)**, the C++ flight stack used by drones, planes, rovers, and submarines worldwide. Surgical fixes scoped per subsystem — driver-level (gimbal protocol), invariant checks (waypoint navigation), build / library isolation.
 
 </td>
 </tr>
@@ -122,9 +108,9 @@ Active contributor to **[ArduPilot](https://github.com/ArduPilot/ardupilot)**, t
 
 <div align="center">
 
-<a href="https://github.com/ja51d?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-020817?style=for-the-badge&logo=github&logoColor=00D9FF&labelColor=020817" /></a>
+<a href="https://github.com/ja51d?tab=repositories"><img src="https://img.shields.io/badge/-REPOSITORIES-020817?style=for-the-badge&logo=github&logoColor=00D9FF" /></a>
 &nbsp;
-<a href="mailto:namazovj@gmail.com"><img src="https://img.shields.io/badge/EMAIL-020817?style=for-the-badge&logo=gmail&logoColor=00D9FF&labelColor=020817" /></a>
+<a href="mailto:namazovj@gmail.com"><img src="https://img.shields.io/badge/-EMAIL-020817?style=for-the-badge&logo=gmail&logoColor=00D9FF" /></a>
 
 </div>
 
