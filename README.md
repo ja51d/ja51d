@@ -99,10 +99,15 @@ Surgical fixes to the [ArduPilot](https://github.com/ArduPilot/ardupilot) C++ fl
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1B2A,50:1B3A6B,100:2C5DA3&height=2" />
 </p>
 
-### 🏆 Achievements
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ja51d&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" alt="trophies" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ja51d&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="github stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ja51d&theme=tokyonight&hide_border=true" alt="streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ja51d&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
 </p>
 
 <p align="center">
