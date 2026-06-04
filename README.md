@@ -99,16 +99,6 @@ Surgical fixes to the [ArduPilot](https://github.com/ArduPilot/ardupilot) C++ fl
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1B2A,50:1B3A6B,100:2C5DA3&height=2" />
 </p>
 
-### 🔥 Contribution Streak
-
-<p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ja51d&theme=tokyonight&hide_border=true" alt="streak stats" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1B2A,50:1B3A6B,100:2C5DA3&height=2" />
-</p>
-
 <p align="center">
   <a href="https://github.com/ja51d?tab=repositories"><img src="https://img.shields.io/badge/-Repositories-1B3A6B?style=for-the-badge&logo=github&logoColor=ffffff" /></a>
   &nbsp;
